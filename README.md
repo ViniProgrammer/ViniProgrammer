@@ -5,7 +5,6 @@ My name is Igor Vinicius Ramos de Souza and my nickname is Vini.
 - 📺 I'm currently working on channels sale;
 - 💻 I’m currently learning programming;
 - 📚 I’m computer engineering student;
-- 💪 Bodybuilding; 
 - 🚀 Fun fact: Born in the first city of Brazil.
   >
 
